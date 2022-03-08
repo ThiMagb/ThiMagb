@@ -13,6 +13,7 @@
  <br>
 <div> 
   <a href="https://instagram.com/thimagb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thimagb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/thimagb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.magbstudios.com.br" target="_blank"><img src="https://img.shields.io/badge/-Magb_Studios-e84a43?style=for-the-badge&logo=M&logoColor=white" target="_blank"></a> 
+ 
 </div>
